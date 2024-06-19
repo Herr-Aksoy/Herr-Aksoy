@@ -1,15 +1,6 @@
 <!-- ![MasterHead](https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Github%20Banner.jpg)   Üs foto  Burayi olusturunca yaparsin-->
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  <div>
-    <img src="https://komarev.com/ghpvc/?username=Herr-Aksoy&color=blue" alt="Profile Views"/>
-  </div>
-  <div style="flex-grow: 1; text-align: center;">
-    <a href="https://github.com/Herr-Aksoy">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=%e2%9c%a8+Ahmet+Aksoy+%e2%9c%a8;%f0%9f%93%9a+DevOps+Engineer+%f0%9f%92%bb;Welcome+To+My+Profile+%f0%9f%91%80" alt="Typing SVG"/>
-    </a>
-  </div>
-</div>
+
 
 
 
@@ -17,9 +8,7 @@
 <div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px;">
   <div>
     <img src="https://komarev.com/ghpvc/?username=Herr-Aksoy&color=blue" alt="Profile Views"/>
-  </div>
-  <div>
-    <a href="https://github.com/Herr-Aksoy">
+        <a href="https://github.com/Herr-Aksoy">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=%e2%9c%a8+Ahmet+Aksoy+%e2%9c%a8;%f0%9f%93%9a+DevOps+Engineer+%f0%9f%92%bb;Welcome+To+My+Profile+%f0%9f%91%80" alt="Typing SVG"/>
     </a>
   </div>
