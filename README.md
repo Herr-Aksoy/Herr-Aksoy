@@ -1,6 +1,7 @@
 <!-- ![MasterHead](https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Github%20Banner.jpg)   Üs foto  Burayi olusturunca yaparsin-->
 ![](https://komarev.com/ghpvc/?username=CagatayAkkas&color=blue)   <!-- Proilimize gelen insan sayisi-->
 <div align="center">      <!-- %e2%9c%a8  yazidaki sembolleri temsil ediyor  link https://www.utf8-chartable.de/unicode-utf8-table.pl?start=128000-->
+  ![](https://komarev.com/ghpvc/?username=CagatayAkkas&color=blue)
  <a href="https://github.com/CagatayAkkas">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=%e2%9c%a8+Ahmet+Aksoy+%e2%9c%a8;%f0%9f%93%9a+DevOps+Engineer+%f0%9f%92%bb;Welcome+To+My+Profile+%f0%9f%91%80" alt="Typing SVG" />
  </a>
@@ -114,7 +115,7 @@
   
   
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CagatayAkkas&layout=compact&langs_count=25&title_color=0000ee&text_color=ffffff&bg_color=000000&hide_border=true)](https://github.com/CagatayAkkas/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Herr-Aksoy&layout=compact&langs_count=25&title_color=0000ee&text_color=ffffff&bg_color=000000&hide_border=true)](https://github.com/Herr-Aksoy/github-readme-stats)
 
 
 
