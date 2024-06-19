@@ -6,12 +6,12 @@
 <img src="https://komarev.com/ghpvc/?username=Herr-Aksoy&&style=plastics&&color=yellow" align="right"/> </p>
 
 
-![](https://komarev.com/ghpvc/?username=Herr-Aksoy&color=blue)   <!-- Proilimize gelen insan sayisi-->
-<div align="center">      <!-- %e2%9c%a8  yazidaki sembolleri temsil ediyor  link https://www.utf8-chartable.de/unicode-utf8-table.pl?start=128000-->
+<!-- ![](https://komarev.com/ghpvc/?username=Herr-Aksoy&color=blue)   Proilimize gelen insan sayisi
+<div align="center">      %e2%9c%a8  yazidaki sembolleri temsil ediyor  link https://www.utf8-chartable.de/unicode-utf8-table.pl?start=128000
  <a href="https://github.com/Herr-Aksoy">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=%e2%9c%a8+Ahmet+Aksoy+%e2%9c%a8;%f0%9f%93%9a+DevOps+Engineer+%f0%9f%92%bb;Welcome+To+My+Profile+%f0%9f%91%80" alt="Typing SVG" />
  </a>
-</div>
+</div> -->
                                                             <!--gif koymak yerini belirlemek-->
 <img src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/EatSleepCodeRepeat.gif" alt="Coding" width=200 height=200 align="right">
 
@@ -158,9 +158,9 @@
 
 <!-- <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=kubernetes.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false" align="right /> </a> -->
 
-<br>
-<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/>
-<img src="https://komarev.com/ghpvc/?username=herr-aksoy&&style=plastics&&color=yellow" align="right"/> </p>  <!-- görüntüleme sayisi -->
+<!-- <br>
+<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/>        kirmizi alanda yazi geciyor
+<img src="https://komarev.com/ghpvc/?username=herr-aksoy&&style=plastics&&color=yellow" align="right"/> </p>  görüntüleme sayisi -->
 
 <!-- <h2 align="center"> -->   <!-- cizgi eklemek icin -->
 <!-- </h2>  -->
@@ -178,9 +178,9 @@
 ### </path></svg></a> About Me ✅ </h2>
 -->
 
-<img align="center" width="400" src="https://github.com/hanzelkaraagac/hanzelkaraagac/assets/113600705/aa422c7a-3357-446c-8faf-3225d1af1342" />
+<!-- <img align="center" width="400" src="https://github.com/hanzelkaraagac/hanzelkaraagac/assets/113600705/aa422c7a-3357-446c-8faf-3225d1af1342" />
 <a href="https://discord.gg/hanzelkaraagac">
-<strong> Click here to join our Discord server ⬅️ </a>
+<strong> Click here to join our Discord server ⬅️ </a> -->
 
 <!-- %7C -> alttaki yaziya | eklememize yariyor  yüzde isareti isaret icin-->
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%CC00FF&lines=Welcome+ahmet+aksoy+Channel;+Click+image+to+join+our+server)
