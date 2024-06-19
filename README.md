@@ -126,7 +126,7 @@
 
 <br />
 
-<!-- ![](https://github-profile-trophy.vercel.app/?username=CagatayAkkas&theme=dracula&no-frame=false&no-bg=false&margin-w=4) -->
+![](https://github-profile-trophy.vercel.app/?username=CagatayAkkas&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
 
 <br />
