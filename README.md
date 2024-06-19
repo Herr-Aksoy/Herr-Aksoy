@@ -1,7 +1,7 @@
 <!-- ![MasterHead](https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Github%20Banner.jpg)   Üs foto  Burayi olusturunca yaparsin-->
 
 <p align="center" style="display: flex; align-items: center; justify-content: center;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=%e2%9c%a8+Ahmet+Aksoy+%e2%9c%a8;%f0%9f%93%9a+DevOps+Engineer+%f0%9f%92%bb;Welcome+To+My+Profile+%f0%9f%91%80" alt="Typing SVG" style="margin-right: 20px;" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=%e2%9c%a8+Ahmet+Aksoy+%e2%9c%a8;%f0%9f%93%9a+DevOps+Engineer+%f0%9f%92%bb;Welcome+To+My+Profile+%f0%9f%91%80" alt="Typing SVG" style="margin-right: 15px;" />
   <img src="https://komarev.com/ghpvc/?username=Herr-Aksoy&&style=plastics&&color=yellow" style="align-self: flex-end;" />
 </p>
 
