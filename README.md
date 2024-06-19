@@ -64,7 +64,7 @@
 <!-- END YOUTUBE-CARDS -->
 
 
-<!-- <picture>                                                       
+<!-- <picture>           bu kisik yilan toplama meselesi                                            
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CagatayAkkas/CagatayAkkas/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CagatayAkkas/CagatayAkkas/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CagatayAkkas/CagatayAkkas/output/github-contribution-grid-snake.svg">
@@ -79,7 +79,7 @@
   <p align="center">
   <a>
     <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Left.png">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=CagatayAkkas&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="CagatayAkkas" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=Herr-Aksoy&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="Ahmet Aksoy" />
     <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Right.png">
   </a>
 </p>
