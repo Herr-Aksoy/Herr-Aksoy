@@ -5,6 +5,8 @@
 <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=%e2%9c%a8+Ahmet+Aksoy+%e2%9c%a8;%f0%9f%93%9a+DevOps+Engineer+%f0%9f%92%bb;Welcome+To+My+Profile+%f0%9f%91%80" alt="Typing SVG" />
 <img src="https://komarev.com/ghpvc/?username=Herr-Aksoy&&style=plastics&&color=yellow" align="right"/> </p>
 
+<!-- [![](https://visitcount.itsvg.in/api?id=Herr-Aksoy&icon=0&color=0)](https://visitcount.itsvg.in) -->
+
 
 <!-- ![](https://komarev.com/ghpvc/?username=Herr-Aksoy&color=blue)   Proilimize gelen insan sayisi
 <div align="center">      %e2%9c%a8  yazidaki sembolleri temsil ediyor  link https://www.utf8-chartable.de/unicode-utf8-table.pl?start=128000
@@ -260,18 +262,21 @@
 
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/asdasdasd) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/asdasdasd) 
+<!-- ## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/asdasdasd) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/asdasdasd)  -->
 
-# 💻 Tech Stack:
-![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Rancher](https://img.shields.io/badge/rancher-%230075A8.svg?style=for-the-badge&logo=rancher&logoColor=white)
+<!-- # 💻 Tech Stack:
+![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Rancher](https://img.shields.io/badge/rancher-%230075A8.svg?style=for-the-badge&logo=rancher&logoColor=white) -->
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Herr-Aksoy&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Herr-Aksoy&theme=cobalt&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Herr-Aksoy&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Herr-Aksoy&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<!-- ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Herr-Aksoy&theme=radical&no-frame=false&no-bg=true&margin-w=4) -->
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -280,7 +285,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Herr-Aksoy&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Herr-Aksoy&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- [![](https://visitcount.itsvg.in/api?id=Herr-Aksoy&icon=0&color=0)](https://visitcount.itsvg.in) Bu ziyaretci sayisi sanirim-->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
@@ -288,7 +293,7 @@
 
 
 
-### Hi there 👋, my name is Ahmet Aksoy
+<!-- ### Hi there 👋, my name is Ahmet Aksoy
 #### DevOps Engineer
 ![DevOps Engineer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
@@ -305,10 +310,10 @@ Skills: AWS | Kubernetes | Docker | Python | Jenkins | Ansible | Terraform  | Gi
 - 💬 Ask me about adadasd 
 - 📫 How to reach me: asdasda 
 - 😄 Pronouns: asdasdas 
-- ⚡ Fun fact: asdasdad 
+- ⚡ Fun fact: asdasdad  -->
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Herr-Aksoy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/aksoy-ahmet/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/asdasda/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://portfolio1.awspublic.link)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/xing.svg' alt='xing' height='40'>](https://www.xing.com/profile/Ahmet_Aksoy68/web_profiles?expandNeffi=true)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Herr-Aksoy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/aksoy-ahmet/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/updated_devops?igsh=N3kxOWMwdDhsaTZl)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://portfolio1.awspublic.link)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/xing.svg' alt='xing' height='40'>](https://www.xing.com/profile/Ahmet_Aksoy68/web_profiles?expandNeffi=true)  
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
