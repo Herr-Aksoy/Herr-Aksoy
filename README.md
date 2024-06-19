@@ -1,6 +1,11 @@
 <!-- ![MasterHead](https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Github%20Banner.jpg)   Üs foto  Burayi olusturunca yaparsin-->
 
 
+<br>
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=%e2%9c%a8+Ahmet+Aksoy+%e2%9c%a8;%f0%9f%93%9a+DevOps+Engineer+%f0%9f%92%bb;Welcome+To+My+Profile+%f0%9f%91%80" alt="Typing SVG" />
+<img src="https://komarev.com/ghpvc/?username=Herr-Aksoy&&style=plastics&&color=yellow" align="right"/> </p>
+
+
 ![](https://komarev.com/ghpvc/?username=Herr-Aksoy&color=blue)   <!-- Proilimize gelen insan sayisi-->
 <div align="center">      <!-- %e2%9c%a8  yazidaki sembolleri temsil ediyor  link https://www.utf8-chartable.de/unicode-utf8-table.pl?start=128000-->
  <a href="https://github.com/Herr-Aksoy">
