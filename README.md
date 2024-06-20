@@ -208,9 +208,9 @@
 
 <p align="center">
   <a>
-    <img  src="https://github.com/Herr-Aksoy/Herr-Aksoy/blob/main/img/SolMat.png" width="162" >
+    <img  src="https://github.com/Herr-Aksoy/Herr-Aksoy/blob/main/img/SolMat.png" width="182" >
       <img src="https://github-readme-stats.vercel.app/api?username=Herr-Aksoy&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="Ahmet Aksoy"  />
-    <img  src="https://github.com/Herr-Aksoy/Herr-Aksoy/blob/main/img/SagMat.png"  width="162" >
+    <img  src="https://github.com/Herr-Aksoy/Herr-Aksoy/blob/main/img/SagMat.png"  width="182" >
   </a>
 </p>
 
