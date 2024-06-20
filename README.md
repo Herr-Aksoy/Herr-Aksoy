@@ -226,7 +226,7 @@ height="160"
 <p align="center">
   <a>
     <img src="https://github.com/Herr-Aksoy/Herr-Aksoy/blob/main/img/alevlikus2.png"  width="182">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Herr-Aksoy&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Ahmet Aksoy"  />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Herr-Aksoy&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Ahmet Aksoy" width="202" />
     <img src="https://github.com/Herr-Aksoy/Herr-Aksoy/blob/main/img/alevlikus.png"  width="182">
   </a>
 </p>
