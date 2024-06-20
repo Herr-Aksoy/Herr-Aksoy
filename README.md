@@ -307,14 +307,15 @@
 
 <br>
 
- <div align="center"> 
-  <!-- <a href="https://www.youtube.com/@hanzelkaraagac" target="_blank">
-    <img src="https://img.shields.io/badge/-Youtube-%23333?style=for-the-badge&logo=youtube&logoColor=red" target="_blank">
-  </a> -->
+ <!-- <div align="center"> 
+
   <a href="https://www.linkedin.com/in/aksoy-ahmet/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=blue" target="_blank">
   </a>
-  <!-- <a href = "mailto:hanzelkaraagaac@gmail.com">
+  <a href="https://www.instagram.com/updated_devops?igsh=N3kxOWMwdDhsaTZl" target="_blank">
+   <img alt="Instagram" src="https://img.shields.io/badge/instagram-%23333?&style=for-the-badge&logo=instagram&logoColor=#E1306C "/>
+  </a>
+  <a href = "mailto:hanzelkaraagaac@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=reed" target="_blank">
   </a>
   <a href="https://medium.com/@hanzelkaraagac">
@@ -326,17 +327,20 @@
   <a href="https://discord.com/servers/software-library-1030166206025568356" target="_blank">
    <img alt="discord" src="https://img.shields.io/badge/Discord-%23333?style=for-the-badge&logo=discord&logoColor=#7289d9"/>
   </a> -->
-  <a href="https://www.instagram.com/updated_devops?igsh=N3kxOWMwdDhsaTZl" target="_blank">
-   <img alt="Instagram" src="https://img.shields.io/badge/instagram-%23333?&style=for-the-badge&logo=instagram&logoColor=#E1306C "/>
+  <!-- <a href="https://www.youtube.com/@hanzelkaraagac" target="_blank">
+    <img src="https://img.shields.io/badge/-Youtube-%23333?style=for-the-badge&logo=youtube&logoColor=red" target="_blank">
   </a>
 
-
-</div>
+</div> -->
 
  
 <!-- ![](./profile-3d-contrib/profile-night-rainbow.svg)  üc boyutlu  -->   
 
+
+
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
+
+
 
 <!-- ![](https://github.com/BEPb/BEPb/raw/output/github-contribution-grid-snake.svg)    yilanin oldugu kisim -->
 
@@ -347,20 +351,20 @@
 
 
 
- <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920"/>
+ <!-- <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920"/> -->
  
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>My Stats</b>
+<!-- ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>My Stats</b>
 
 <p align="center">
   <img height="150" width="150" src="WEBP/left.webp">
   <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Herr-Aksoy&theme=dark&background=000000"/>
   <img height="150" width="150" src="WEBP/right.webp">
-</p>
+</p> -->
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hanzelkaraagac&theme=dark&background=000000)](https://git.io/streak-stats) -->
 
 
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/Herr-Aksoy)
+<!-- [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/Herr-Aksoy) -->
 
 
 
@@ -379,21 +383,21 @@
 ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Rancher](https://img.shields.io/badge/rancher-%230075A8.svg?style=for-the-badge&logo=rancher&logoColor=white) -->
 
 
-# 📊 GitHub Stats:
+<!-- # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Herr-Aksoy&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Herr-Aksoy&theme=cobalt&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Herr-Aksoy&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Herr-Aksoy&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
 
 <!-- ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Herr-Aksoy&theme=radical&no-frame=false&no-bg=true&margin-w=4) -->
 
-### ✍️ Random Dev Quote
+<!-- ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Herr-Aksoy&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Herr-Aksoy&limit=5&theme=dark&combine_all_yearly_contributions=true) -->
 
----
+
 <!-- [![](https://visitcount.itsvg.in/api?id=Herr-Aksoy&icon=0&color=0)](https://visitcount.itsvg.in) Bu ziyaretci sayisi sanirim-->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
