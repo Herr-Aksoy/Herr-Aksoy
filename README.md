@@ -483,8 +483,6 @@ Skills: AWS | Kubernetes | Docker | Python | Jenkins | Ansible | Terraform  | Gi
 
 
 
-
-
 <div align="center">
   <table>
     <tr>      
@@ -494,7 +492,7 @@ Skills: AWS | Kubernetes | Docker | Python | Jenkins | Ansible | Terraform  | Gi
         </a>
       </td>
       <td style="text-align: left; width: 33%;">
-        <h2>Live Projects</h2>
+        <h2>Live Projects:</h2>
       </td>
       <td style="text-align: center; width: 67%;">
         <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a>
@@ -505,6 +503,36 @@ Skills: AWS | Kubernetes | Docker | Python | Jenkins | Ansible | Terraform  | Gi
       </td>
     </tr>
   </table>
+</div>
+
+
+
+<div align="center">
+  <div style="display: table; width: 100%;">
+    <div style="display: table-cell; text-align: left; width: 33%;">
+      <a href="https://portfolio1.awspublic.link">
+        <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40' title='Project1' style="vertical-align: middle;">
+        <span style="vertical-align: middle;"><h2 style="display: inline; margin: 0;">Live Projects:</h2></span>
+      </a>
+    </div>
+    <div style="display: table-cell; text-align: center; width: 67%;">
+      <a href='https://stars.github.com/' style="margin: 0 5px;">
+        <img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'>
+      </a>
+      <a href='https://stars.github.com/' style="margin: 0 5px;">
+        <img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'>
+      </a>
+      <a href='https://stars.github.com/' style="margin: 0 5px;">
+        <img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'>
+      </a>
+      <a href='https://stars.github.com/' style="margin: 0 5px;">
+        <img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'>
+      </a>
+      <a href='https://stars.github.com/' style="margin: 0 5px;">
+        <img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'>
+      </a>
+    </div>
+  </div>
 </div>
 
 
