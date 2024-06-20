@@ -253,7 +253,7 @@
 
 <div align="center">
   <a>
-    <img src="https://github.com/Herr-Aksoy/Herr-Aksoy/blob/main/img/alevlikus2.png" width="222" style="vertical-align: middle;">
+    <img src="https://github.com/Herr-Aksoy/Herr-Aksoy/blob/main/img/alevlikus2.png" width="212" style="vertical-align: middle;">
   </a>
   <span style="display: inline-block; width: 50px;"></span>
   <a href="https://github.com/Herr-Aksoy">
@@ -261,7 +261,7 @@
   </a>
   <span style="display: inline-block; width: 50px;"></span>
   <a>
-    <img src="https://github.com/Herr-Aksoy/Herr-Aksoy/blob/main/img/alevlikus.png" width="222" style="vertical-align: middle;">
+    <img src="https://github.com/Herr-Aksoy/Herr-Aksoy/blob/main/img/alevlikus.png" width="212" style="vertical-align: middle;">
   </a>
 </div>
 
