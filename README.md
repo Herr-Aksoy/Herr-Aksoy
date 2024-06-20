@@ -231,7 +231,7 @@
 <p align="center">
   <a>
     <img src="https://github.com/Herr-Aksoy/Herr-Aksoy/blob/main/img/SolMat.png"  width="182">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Herr-Aksoy&theme=material-palenight&hide_border=false" alt="Ahmet Aksoy" width="472" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Herr-Aksoy&theme=material-palenight&hide_border=false" alt="Ahmet Aksoy" width="452" />
     <img src="https://github.com/Herr-Aksoy/Herr-Aksoy/blob/main/img/SagMat.png"  width="182">
   </a>
 </p>
