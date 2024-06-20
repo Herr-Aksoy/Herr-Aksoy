@@ -180,7 +180,7 @@
 
 
 
-# Github Stats      <!-- otolari bu repodan cekiyor bunlari kendi repomuz koyum oradan cekebiliriz -->
+<!-- # Github Stats      otolari bu repodan cekiyor bunlari kendi repomuz koyum oradan cekebiliriz -->
 
  <!-- <br/> -->
  
