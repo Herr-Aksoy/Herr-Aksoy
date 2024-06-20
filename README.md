@@ -88,7 +88,7 @@
 <!-- <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a> -->
 
 </p> </a>
- <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />     renkli cizgi kismi 
+ <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />     <!--renkli cizgi kismi--> 
 </p>
 
 <br><br>
