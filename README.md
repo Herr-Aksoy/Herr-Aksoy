@@ -426,14 +426,14 @@ Skills: AWS | Kubernetes | Docker | Python | Jenkins | Ansible | Terraform  | Gi
 - ⚡ Fun fact: asdasdad  -->
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' title='Github Proile'>](https://github.com/Herr-Aksoy)
+<!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' title='Github Proile'>](https://github.com/Herr-Aksoy)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' title='Linkedin Proile'>](https://www.linkedin.com/in/aksoy-ahmet/)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40' title='Instagram Proile'>](https://www.instagram.com/updated_devops?igsh=N3kxOWMwdDhsaTZl)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/xing.svg' alt='xing' height='40' title='Xing Proile'>](https://www.xing.com/profile/Ahmet_Aksoy68/web_profiles?expandNeffi=true)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40' title='Project1'>](https://portfolio1.awspublic.link)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40' title='Project1'>](https://portfolio1.awspublic.link) -->
 
 
-<div align="center">
+<!-- <div align="center">
   <h2 style="text-align: left;">Social Media</h2>
   <a href="https://github.com/Herr-Aksoy">
     <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' title='Github Profile'>
@@ -450,7 +450,7 @@ Skills: AWS | Kubernetes | Docker | Python | Jenkins | Ansible | Terraform  | Gi
   <a href="https://portfolio1.awspublic.link">
     <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40' title='Project1'>
   </a>
-</div>
+</div> -->
 
 
 <div align="center">
@@ -474,6 +474,18 @@ Skills: AWS | Kubernetes | Docker | Python | Jenkins | Ansible | Terraform  | Gi
         </a>
         <a href="https://portfolio1.awspublic.link">
           <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40' title='Project1'>
+        </a>
+        <a href="https://portfolio1.awspublic.link">
+          <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/folder-open.svg' alt='project' height='40' title='Project1'>
+        </a>
+        <a href="https://portfolio1.awspublic.link">
+          <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/briefcase.svg' alt='portfolio' height='40' title='Project1'>
+        </a>
+        <a href="https://portfolio1.awspublic.link">
+          <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/file.svg' alt='file' height='40' title='Project1'>
+        </a>
+        <a href="https://portfolio1.awspublic.link">
+          <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/book.svg' alt='projects' height='40' title='Project1'>
         </a>
       </td>
     </tr>
