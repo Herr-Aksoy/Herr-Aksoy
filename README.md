@@ -91,7 +91,7 @@
  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />     renkli cizgi kismi 
 </p> -->
 
-<!-- <br> -->
+<br>
 
 <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=%e2%9c%a8+Ahmet+Aksoy+%e2%9c%a8;%f0%9f%93%9a+DevOps+Engineer+%f0%9f%92%bb;Welcome+To+My+Profile+%f0%9f%91%80" alt="Typing SVG" align="center" />
 <img src="https://komarev.com/ghpvc/?username=Herr-Aksoy&&style=plastics&&color=yellow" align="right"/></p>
@@ -182,7 +182,7 @@
 
 # Github Stats      <!-- otolari bu repodan cekiyor bunlari kendi repomuz koyum oradan cekebiliriz -->
 
- <br />
+ <!-- <br/> -->
  
 <div align="center">
   <a>
