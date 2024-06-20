@@ -183,9 +183,9 @@
  
   <p align="center">
   <a>
-    <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Left.png">
+    <img heigth="160" width="182" src="https://github.com/Herr-Aksoy/Herr-Aksoy/blob/main/img/SolMat.png">
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=Herr-Aksoy&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="Ahmet Aksoy" />
-    <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Right.png">
+    <img heigth="160" width="182" src="https://github.com/Herr-Aksoy/Herr-Aksoy/blob/main/img/SagMat.png">
   </a>
 </p>
 
@@ -196,9 +196,9 @@
  
  <p align="center">
   <a>
-    <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Left.png">
+    <img heigth="160" width="182" src="https://github.com/Herr-Aksoy/Herr-Aksoy/blob/main/img/SolRenkli.png">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Herr-Aksoy&theme=material-palenight&hide_border=false" alt="Ahmet Aksoy" width="55%" />
-    <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Right.png">
+    <img heigth="160" width="182" src="https://github.com/Herr-Aksoy/Herr-Aksoy/blob/main/img/SagRenkli.png">
   </a>
 </p>
  
@@ -210,9 +210,9 @@
   
   <p align="center">
   <a>
-    <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Bottom%20Left.png">
+    <img heigth="160" width="182" src="https://github.com/Herr-Aksoy/Herr-Aksoy/blob/main/img/alevlikus2.png">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Herr-Aksoy&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Ahmet Aksoy" />
-    <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Bottom%20Right.png">
+    <img heigth="160" width="182" src="https://github.com/Herr-Aksoy/Herr-Aksoy/blob/main/img/alevlikus.png">
   </a>
 </p>
  
