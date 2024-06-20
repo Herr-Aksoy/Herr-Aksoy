@@ -480,6 +480,39 @@ Skills: AWS | Kubernetes | Docker | Python | Jenkins | Ansible | Terraform  | Gi
   </table>
 </div>
 
+
+<div align="center">
+  <div style="display: flex; align-items: center; justify-content: center;">
+    <div style="margin-right: 10px;">
+      <h2>Live Projects</h2>
+    </div>
+    <div>
+      <a href="https://portfolio1.awspublic.link">
+        <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40' title='Project1'>
+      </a>
+      <a href='https://stars.github.com/'>
+        <img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'>
+      </a>
+      <a href='https://stars.github.com/'>
+        <img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'>
+      </a>
+      <a href='https://stars.github.com/'>
+        <img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'>
+      </a>
+      <a href='https://stars.github.com/'>
+        <img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'>
+      </a>
+      <a href='https://stars.github.com/'>
+        <img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'>
+      </a>
+    </div>
+  </div>
+</div>
+
+
+
+
+
 <div align="center">
   <table>
     <tr>
@@ -502,25 +535,7 @@ Skills: AWS | Kubernetes | Docker | Python | Jenkins | Ansible | Terraform  | Gi
 
 
 
-<div align="center">
-  <table>
-    <tr>
-      <td style="text-align: left; width: 33%;">
-        <h2>Live Projects</h2>
-        <a href="https://portfolio1.awspublic.link">
-          <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40' title='Project1'>
-        </a>
-      </td>
-      <td style="text-align: center; width: 67%;">
-        <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a>
-        <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a>
-        <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a>
-        <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a>
-        <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a>
-      </td>
-    </tr
-  </table>
-</div>
+
 
 
 
