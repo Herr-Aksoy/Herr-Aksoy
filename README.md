@@ -248,19 +248,6 @@
   </a>
 </p> -->
  
-  
-<div align="center">
-  <a>
-    <img src="https://github.com/Herr-Aksoy/Herr-Aksoy/blob/main/img/alevlikus2.png"  width="182">
-  </a>
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Herr-Aksoy&layout=compact&langs_count=25&title_color=0000ee&text_color=ffffff&bg_color=000000&hide_border=true)](https://github.com/Herr-Aksoy/github-readme-stats)
-
-  <a>
-    <img src="https://github.com/Herr-Aksoy/Herr-Aksoy/blob/main/img/alevlikus.png"  width="182">
-  </a>
-
-</div>  
  
 
 
@@ -270,7 +257,7 @@
   </a>
   <span style="display: inline-block; width: 50px;"></span>
   <a href="https://github.com/Herr-Aksoy">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Herr-Aksoy&layout=compact&langs_count=25&title_color=0000ee&text_color=ffffff&bg_color=000000&hide_border=true" alt="Top Langs" style="vertical-align: middle;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Herr-Aksoy&layout=compact&langs_count=25&title_color=0000ee&text_color=ffffff&bg_color=000000&hide_border=true" alt="Top Langs" style="vertical-align: middle;" width="472">
   </a>
   <span style="display: inline-block; width: 50px;"></span>
   <a>
