@@ -181,13 +181,6 @@
 
  <br />
  
-<p align="center">
-  <a>
-    <img heigth="160" width="182" src="https://github.com/Herr-Aksoy/Herr-Aksoy/blob/main/img/SolMat.png">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=Herr-Aksoy&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="Ahmet Aksoy" />
-    <img heigth="160" width="182" src="https://github.com/Herr-Aksoy/Herr-Aksoy/blob/main/img/SagMat.png">
-  </a>
-</p>
 
 <p align="center">
   <a>
@@ -197,29 +190,29 @@
   </a>
 </p>
 
-height="160"
+
 
   
 <br />
 
 
  
-<p align="center">
+<!-- <p align="center">
   <a>
     <img heigth="160" width="182" src="https://github.com/Herr-Aksoy/Herr-Aksoy/blob/main/img/SolRenkli.png">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Herr-Aksoy&theme=material-palenight&hide_border=false" alt="Ahmet Aksoy" width="55%" />
     <img heigth="160" width="182" src="https://github.com/Herr-Aksoy/Herr-Aksoy/blob/main/img/SagRenkli.png">
   </a>
-</p>
+</p> -->
  
 
-<p align="center">
+<!-- <p align="center">
   <a>
     <img src="https://github.com/Herr-Aksoy/Herr-Aksoy/blob/main/img/SolRenkli.png" width="162" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Herr-Aksoy&theme=material-palenight&hide_border=false" alt="AhmetAksoy"/>
     <img src="https://github.com/Herr-Aksoy/Herr-Aksoy/blob/main/img/SagRenkli.png" width="162" />
   </a>
-</p>
+</p> -->
  
 <p align="center">
   <a>
@@ -247,18 +240,25 @@ height="160"
 
   
   
-<p align="center">
+<!-- <p align="center">
   <a>
     <img heigth="160" width="182" src="https://github.com/Herr-Aksoy/Herr-Aksoy/blob/main/img/alevlikus2.png">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Herr-Aksoy&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Ahmet Aksoy" />
     <img heigth="160" width="182" src="https://github.com/Herr-Aksoy/Herr-Aksoy/blob/main/img/alevlikus.png">
   </a>
-</p>
+</p> -->
  
   
 <div align="center">
+  <a>
+    <img src="https://github.com/Herr-Aksoy/Herr-Aksoy/blob/main/img/alevlikus2.png"  width="182">
+  </a>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Herr-Aksoy&layout=compact&langs_count=25&title_color=0000ee&text_color=ffffff&bg_color=000000&hide_border=true)](https://github.com/Herr-Aksoy/github-readme-stats)
+
+  <a>
+    <img src="https://github.com/Herr-Aksoy/Herr-Aksoy/blob/main/img/alevlikus.png"  width="182">
+  </a>
 
 </div>  
  
