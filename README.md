@@ -475,23 +475,28 @@ Skills: AWS | Kubernetes | Docker | Python | Jenkins | Ansible | Terraform  | Gi
         <a href="https://portfolio1.awspublic.link">
           <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40' title='Project1'>
         </a>
-        <a href="https://portfolio1.awspublic.link">
-          <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/folder-open.svg' alt='project' height='40' title='Project1'>
-        </a>
-        <a href="https://portfolio1.awspublic.link">
-          <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/briefcase.svg' alt='portfolio' height='40' title='Project1'>
-        </a>
-        <a href="https://portfolio1.awspublic.link">
-          <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/file.svg' alt='file' height='40' title='Project1'>
-        </a>
-        <a href="https://portfolio1.awspublic.link">
-          <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/book.svg' alt='projects' height='40' title='Project1'>
-        </a>
       </td>
     </tr>
   </table>
 </div>
 
+<div align="center">
+  <table>
+    <tr>
+      <td style="text-align: left; width: 33%;">
+        <h2>Live Projects</h2>
+        <a href="https://portfolio1.awspublic.link">
+          <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40' title='Project1'>
+        </a>
+      </td>
+      <td style="text-align: center; width: 67%;">
+        <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a>
+        <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a>
+        <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a>
+        <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a>
+        <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a>
+      </td>
+    </tr
 
 
 
@@ -499,8 +504,11 @@ Skills: AWS | Kubernetes | Docker | Python | Jenkins | Ansible | Terraform  | Gi
 
 
 
-
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'>
+</a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'>
+</a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a>
+<a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a>
+<a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Herr-Aksoy)](https://github.com/ryo-ma/github-profile-trophy)
 
