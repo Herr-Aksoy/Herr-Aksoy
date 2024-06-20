@@ -181,6 +181,21 @@
 
  <br />
  
+<div align="center">
+  <a>
+    <img src="https://github.com/Herr-Aksoy/Herr-Aksoy/blob/main/img/alevlikus2.png" width="212" style="vertical-align: middle;">
+  </a>
+  <span style="display: inline-block; width: 50px;"></span>
+  <a href="https://github.com/Herr-Aksoy">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Herr-Aksoy&layout=compact&langs_count=25&title_color=0000ee&text_color=ffffff&bg_color=000000&hide_border=true" alt="Top Langs" style="vertical-align: middle;" width="402" >
+  </a>
+  <span style="display: inline-block; width: 50px;"></span>
+  <a>
+    <img src="https://github.com/Herr-Aksoy/Herr-Aksoy/blob/main/img/alevlikus.png" width="212" style="vertical-align: middle;">
+  </a>
+</div> 
+
+
 
 <p align="center">
   <a>
