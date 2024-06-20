@@ -1,8 +1,10 @@
 <!-- ![MasterHead](https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Github%20Banner.jpg)   Üs foto  Burayi olusturunca yaparsin-->
 
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Languages and Tools:</b>
-</a> 
+## Languages and Tools 
+<!-- <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
+<b> Languages and Tools:</b> -->
+
 
 <div align="center">
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
@@ -472,9 +474,9 @@ Skills: AWS | Kubernetes | Docker | Python | Jenkins | Ansible | Terraform  | Gi
         <a href="https://www.xing.com/profile/Ahmet_Aksoy68/web_profiles?expandNeffi=true">
           <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/xing.svg' alt='xing' height='40' title='Xing Profile'>
         </a>
-        <a href="https://portfolio1.awspublic.link">
+        <!-- <a href="https://portfolio1.awspublic.link">
           <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40' title='Project1'>
-        </a>
+        </a> -->
       </td>
     </tr>
   </table>
