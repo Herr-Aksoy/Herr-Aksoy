@@ -257,7 +257,7 @@
   </a>
   <span style="display: inline-block; width: 50px;"></span>
   <a href="https://github.com/Herr-Aksoy">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Herr-Aksoy&layout=compact&langs_count=25&title_color=0000ee&text_color=ffffff&bg_color=000000&hide_border=true" alt="Top Langs" style="vertical-align: middle;" width="472">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Herr-Aksoy&layout=compact&langs_count=25&title_color=0000ee&text_color=ffffff&bg_color=000000&hide_border=true" alt="Top Langs" style="vertical-align: middle;" width="472" heigth="160">
   </a>
   <span style="display: inline-block; width: 50px;"></span>
   <a>
