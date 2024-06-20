@@ -215,9 +215,9 @@ height="160"
 
 <p align="center">
   <a>
-    <img src="https://github.com/Herr-Aksoy/Herr-Aksoy/blob/main/img/SolRenkli.png" alt="Sol Renkli" height="200" width="182" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Herr-Aksoy&theme=material-palenight&hide_border=false" alt="Ahmet Aksoy" height="160" />
-    <img src="https://github.com/Herr-Aksoy/Herr-Aksoy/blob/main/img/SagRenkli.png" alt="Sag Renkli" height="200" width="182" />
+    <img src="https://github.com/Herr-Aksoy/Herr-Aksoy/blob/main/img/SolRenkli.png" alt="Sol Renkli"  width="182" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Herr-Aksoy&theme=material-palenight&hide_border=false" alt="Ahmet Aksoy" />
+    <img src="https://github.com/Herr-Aksoy/Herr-Aksoy/blob/main/img/SagRenkli.png" alt="Sag Renkli"  width="182" />
   </a>
 </p>
  
