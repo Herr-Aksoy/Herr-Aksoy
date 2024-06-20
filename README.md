@@ -203,6 +203,14 @@
 </p>
  
 
+ <p align="center">
+  <a>
+    <img src="https://github.com/Herr-Aksoy/Herr-Aksoy/blob/main/img/SolRenkli.png" alt="Sol Renkli" style="max-height: 160px; vertical-align: middle;" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Herr-Aksoy&theme=material-palenight&hide_border=false" alt="Ahmet Aksoy" style="width: 55%; vertical-align: middle;" />
+    <img src="https://github.com/Herr-Aksoy/Herr-Aksoy/blob/main/img/SagRenkli.png" alt="Sag Renkli" style="max-height: 160px; vertical-align: middle;" />
+  </a>
+</p>
+
  
  <br />
  
