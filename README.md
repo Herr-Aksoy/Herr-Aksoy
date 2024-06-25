@@ -494,7 +494,7 @@ Skills: AWS | Kubernetes | Docker | Python | Jenkins | Ansible | Terraform  | Gi
         <h2>Live Projects:</h2>
       </td>
       <td style="text-align: center; width: 67%;">
-        <a href="https://portfolio1.awspublic.link" title="3D-Protfolio-Project"><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a>
+        <a href="https://portolio1-my-projects.netlify.app" title="3D-Protfolio-Project"><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a>
         <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a>
         <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a>
         <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a>
