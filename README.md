@@ -456,32 +456,6 @@ Skills: AWS | Kubernetes | Docker | Python | Jenkins | Ansible | Terraform  | Gi
   </a>
 </div> -->
 
-<div align="center">
-  <table>
-    <tr>
-      <td style="text-align: left; width: 33%;">
-        <h2>Social Media</h2>
-      </td>
-      <td style="text-align: center; width: 67%;">
-        <a href="https://github.com/Herr-Aksoy">
-          <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' title='Github Profile' style="transition: transform 0.2s;"/>
-        </a>
-        <a href="https://www.linkedin.com/in/aksoy-ahmet/">
-          <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' title='Linkedin Profile' style="transition: transform 0.2s;"/>
-        </a>
-        <a href="https://www.instagram.com/updated_devops?igsh=N3kxOWMwdDhsaTZl">
-          <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40' title='Instagram Profile' style="transition: transform 0.2s;"/>
-        </a>
-        <a href="https://www.xing.com/profile/Ahmet_Aksoy68/web_profiles?expandNeffi=true">
-          <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/xing.svg' alt='xing' height='40' title='Xing Profile' style="transition: transform 0.2s;"/>
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
-
-
 
 
 <div align="center">
